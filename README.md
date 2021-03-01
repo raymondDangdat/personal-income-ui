@@ -1,10 +1,10 @@
 # personal_income_app_ui
 
-A new Flutter application.
+A Personal Income App UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project basically makes use of different widgets to build bar chats, custom scroll views for progress bar
 
 A few resources to get you started if this is your first Flutter project:
 
